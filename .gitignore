@@ -1,4 +1,7 @@
 .DS_Store
-node_modules
-tmp
-!public
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/

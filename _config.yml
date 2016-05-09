@@ -70,4 +70,4 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/fxjs/fxjs.github.io.git
-  branch: hexo
+  branch: master
